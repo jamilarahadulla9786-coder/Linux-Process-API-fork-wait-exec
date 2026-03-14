@@ -60,9 +60,8 @@ int main() {
 
 
 ##OUTPUT
+
 ![Alt text](<img1/Screenshot at 2026-03-14 16-32-51.png>)
-
-
 
 
 
@@ -140,8 +139,8 @@ int main() {
 
 
 ##OUTPUT
-![Alt text](<img1/Screenshot at 2026-03-14 16-39-19.png>)
 
+![Alt text](<img1/Screenshot at 2026-03-14 16-39-19.png>)
 
 
 
